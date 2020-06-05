@@ -1,0 +1,3997 @@
+fileFormatVersion: 2
+guid: 9ffc8a07a3657bb47bc4efc5063ae0ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7085577310082801801
+    second: transparent-sprite-portal-16_0
+  - first:
+      213: 6324644749370936463
+    second: transparent-sprite-portal-16_1
+  - first:
+      213: 6249070603631403259
+    second: transparent-sprite-portal-16_2
+  - first:
+      213: -9190860632444692398
+    second: transparent-sprite-portal-16_3
+  - first:
+      213: -7866320276451357303
+    second: transparent-sprite-portal-16_4
+  - first:
+      213: -2328996740300758256
+    second: transparent-sprite-portal-16_5
+  - first:
+      213: 5356302883774239074
+    second: transparent-sprite-portal-16_6
+  - first:
+      213: 2502260142044373305
+    second: transparent-sprite-portal-16_7
+  - first:
+      213: 1592903968160907513
+    second: transparent-sprite-portal-16_8
+  - first:
+      213: -472469397383277977
+    second: transparent-sprite-portal-16_9
+  - first:
+      213: -4585427398095812920
+    second: transparent-sprite-portal-16_10
+  - first:
+      213: -8636710346894699814
+    second: transparent-sprite-portal-16_11
+  - first:
+      213: 724926059540356320
+    second: transparent-sprite-portal-16_12
+  - first:
+      213: 7710409144806934374
+    second: transparent-sprite-portal-16_13
+  - first:
+      213: 185330191442264063
+    second: transparent-sprite-portal-16_14
+  - first:
+      213: 7140942473498715448
+    second: transparent-sprite-portal-16_15
+  - first:
+      213: -2016053930119755080
+    second: transparent-sprite-portal-16_16
+  - first:
+      213: 3195714012062444062
+    second: transparent-sprite-portal-16_17
+  - first:
+      213: 4083008444450638455
+    second: transparent-sprite-portal-16_18
+  - first:
+      213: 2098237541776924150
+    second: transparent-sprite-portal-16_19
+  - first:
+      213: -7712118438513872618
+    second: transparent-sprite-portal-16_20
+  - first:
+      213: 2283207213143695940
+    second: transparent-sprite-portal-16_21
+  - first:
+      213: -5911469342135083319
+    second: transparent-sprite-portal-16_22
+  - first:
+      213: 5936760738344017443
+    second: transparent-sprite-portal-16_23
+  - first:
+      213: 2474344059507265404
+    second: transparent-sprite-portal-16_24
+  - first:
+      213: -9215723425541025895
+    second: transparent-sprite-portal-16_25
+  - first:
+      213: -5219406027912035031
+    second: transparent-sprite-portal-16_26
+  - first:
+      213: -8483212308084962048
+    second: transparent-sprite-portal-16_27
+  - first:
+      213: 1067889281355594093
+    second: transparent-sprite-portal-16_28
+  - first:
+      213: -5831521068573277629
+    second: transparent-sprite-portal-16_29
+  - first:
+      213: -6514167796259321295
+    second: transparent-sprite-portal-16_30
+  - first:
+      213: -260726537140902428
+    second: transparent-sprite-portal-16_31
+  - first:
+      213: 4270341604699446718
+    second: transparent-sprite-portal-16_32
+  - first:
+      213: -4111748407893997292
+    second: transparent-sprite-portal-16_33
+  - first:
+      213: -4393140847002795206
+    second: transparent-sprite-portal-16_34
+  - first:
+      213: 5333774172614493229
+    second: transparent-sprite-portal-16_35
+  - first:
+      213: -2648187277357352622
+    second: transparent-sprite-portal-16_36
+  - first:
+      213: -493252787768554709
+    second: transparent-sprite-portal-16_37
+  - first:
+      213: 3688703869684534153
+    second: transparent-sprite-portal-16_38
+  - first:
+      213: 1075737921966492619
+    second: transparent-sprite-portal-16_39
+  - first:
+      213: -4499830871925960794
+    second: transparent-sprite-portal-16_40
+  - first:
+      213: 3631971407449117608
+    second: transparent-sprite-portal-16_41
+  - first:
+      213: -1807898826914566255
+    second: transparent-sprite-portal-16_42
+  - first:
+      213: -8482052479942740092
+    second: transparent-sprite-portal-16_43
+  - first:
+      213: 4445985605144672502
+    second: transparent-sprite-portal-16_44
+  - first:
+      213: -6248776491473192907
+    second: transparent-sprite-portal-16_45
+  - first:
+      213: 2378444764415399307
+    second: transparent-sprite-portal-16_46
+  - first:
+      213: 6582220632410875155
+    second: transparent-sprite-portal-16_47
+  - first:
+      213: -1316232727307246966
+    second: transparent-sprite-portal-16_48
+  - first:
+      213: -5181094626613650392
+    second: transparent-sprite-portal-16_49
+  - first:
+      213: 1877760382356898131
+    second: transparent-sprite-portal-16_50
+  - first:
+      213: 6938526725972821316
+    second: transparent-sprite-portal-16_51
+  - first:
+      213: -1037023534707812273
+    second: transparent-sprite-portal-16_52
+  - first:
+      213: 1398972193033059894
+    second: transparent-sprite-portal-16_53
+  - first:
+      213: 8466005684425884185
+    second: transparent-sprite-portal-16_54
+  - first:
+      213: -8160360503051163199
+    second: transparent-sprite-portal-16_55
+  - first:
+      213: -833447280593751636
+    second: transparent-sprite-portal-16_56
+  - first:
+      213: -2380808648053815545
+    second: transparent-sprite-portal-16_57
+  - first:
+      213: 3323695334928807473
+    second: transparent-sprite-portal-16_58
+  - first:
+      213: -1444972301260327620
+    second: transparent-sprite-portal-16_59
+  - first:
+      213: 4554497790127703656
+    second: transparent-sprite-portal-16_60
+  - first:
+      213: -7953237342810649182
+    second: transparent-sprite-portal-16_61
+  - first:
+      213: 8089350487448262937
+    second: transparent-sprite-portal-16_62
+  - first:
+      213: 2628079698407911792
+    second: transparent-sprite-portal-16_63
+  - first:
+      213: 3950736946061090068
+    second: transparent-sprite-portal-16_64
+  - first:
+      213: -1915449543302415875
+    second: transparent-sprite-portal-16_65
+  - first:
+      213: -9041773249836411054
+    second: transparent-sprite-portal-16_66
+  - first:
+      213: 8981151309921138295
+    second: transparent-sprite-portal-16_67
+  - first:
+      213: -319388707566147898
+    second: transparent-sprite-portal-16_68
+  - first:
+      213: 6188192395515277161
+    second: transparent-sprite-portal-16_69
+  - first:
+      213: -422175781104989964
+    second: transparent-sprite-portal-16_70
+  - first:
+      213: 2041549786182229069
+    second: transparent-sprite-portal-16_71
+  - first:
+      213: 7985413742094598290
+    second: transparent-sprite-portal-16_72
+  - first:
+      213: -6416252071574842543
+    second: transparent-sprite-portal-16_73
+  - first:
+      213: -9140771869908787740
+    second: transparent-sprite-portal-16_74
+  - first:
+      213: 5519585812522023550
+    second: transparent-sprite-portal-16_75
+  - first:
+      213: -6097785685415145649
+    second: transparent-sprite-portal-16_76
+  - first:
+      213: -6968217919152604919
+    second: transparent-sprite-portal-16_77
+  - first:
+      213: -4089689962372851092
+    second: transparent-sprite-portal-16_78
+  - first:
+      213: -1818829219154115141
+    second: transparent-sprite-portal-16_79
+  - first:
+      213: 4558591077480009914
+    second: transparent-sprite-portal-16_80
+  - first:
+      213: -6892241515414850475
+    second: transparent-sprite-portal-16_81
+  - first:
+      213: 2385367345773680380
+    second: transparent-sprite-portal-16_82
+  - first:
+      213: -3955857225404336035
+    second: transparent-sprite-portal-16_83
+  - first:
+      213: -590249786031025200
+    second: transparent-sprite-portal-16_84
+  - first:
+      213: -1537221626162017694
+    second: transparent-sprite-portal-16_85
+  - first:
+      213: 7989539896866791412
+    second: transparent-sprite-portal-16_86
+  - first:
+      213: 1327380182354962908
+    second: transparent-sprite-portal-16_87
+  - first:
+      213: 6009894981154104036
+    second: transparent-sprite-portal-16_88
+  - first:
+      213: -8255203476589143172
+    second: transparent-sprite-portal-16_89
+  - first:
+      213: -6772343616735452296
+    second: transparent-sprite-portal-16_90
+  - first:
+      213: -5876397840247211085
+    second: transparent-sprite-portal-16_91
+  - first:
+      213: -1343248673190673549
+    second: transparent-sprite-portal-16_92
+  - first:
+      213: -2099262932791154833
+    second: transparent-sprite-portal-16_93
+  - first:
+      213: 4490738480792790979
+    second: transparent-sprite-portal-16_94
+  - first:
+      213: 6457239933064460858
+    second: transparent-sprite-portal-16_95
+  - first:
+      213: -8560736577589085362
+    second: transparent-sprite-portal-16_96
+  - first:
+      213: -4692768413394380001
+    second: transparent-sprite-portal-16_97
+  - first:
+      213: -584036923658824489
+    second: transparent-sprite-portal-16_98
+  - first:
+      213: -332931553093239044
+    second: transparent-sprite-portal-16_99
+  - first:
+      213: 9131200359841392792
+    second: transparent-sprite-portal-16_100
+  - first:
+      213: 6259413809598885095
+    second: transparent-sprite-portal-16_101
+  - first:
+      213: -65709740386275524
+    second: transparent-sprite-portal-16_102
+  - first:
+      213: -1576154823491239164
+    second: transparent-sprite-portal-16_103
+  - first:
+      213: 1527018910343284999
+    second: transparent-sprite-portal-16_104
+  - first:
+      213: -1716420385575380594
+    second: transparent-sprite-portal-16_105
+  - first:
+      213: -7336341666195008854
+    second: transparent-sprite-portal-16_106
+  - first:
+      213: 5475892289318773966
+    second: transparent-sprite-portal-16_107
+  - first:
+      213: 9057439406967132875
+    second: transparent-sprite-portal-16_108
+  - first:
+      213: 2797633207497028482
+    second: transparent-sprite-portal-16_109
+  - first:
+      213: -1821918541550842228
+    second: transparent-sprite-portal-16_110
+  - first:
+      213: -1212169251646297466
+    second: transparent-sprite-portal-16_111
+  - first:
+      213: -7926955184837072053
+    second: transparent-sprite-portal-16_112
+  - first:
+      213: 7352701673255937095
+    second: transparent-sprite-portal-16_113
+  - first:
+      213: 2834804378873082298
+    second: transparent-sprite-portal-16_114
+  - first:
+      213: 8956059744271170811
+    second: transparent-sprite-portal-16_115
+  - first:
+      213: -4465593105275785444
+    second: transparent-sprite-portal-16_116
+  - first:
+      213: -6888727997916548448
+    second: transparent-sprite-portal-16_117
+  - first:
+      213: 7513672405374849537
+    second: transparent-sprite-portal-16_118
+  - first:
+      213: -6663723035485370374
+    second: transparent-sprite-portal-16_119
+  - first:
+      213: 1129827527262719042
+    second: transparent-sprite-portal-16_120
+  - first:
+      213: -1490992701987310518
+    second: transparent-sprite-portal-16_121
+  - first:
+      213: 7134370354993940103
+    second: transparent-sprite-portal-16_122
+  - first:
+      213: 6785036395508817137
+    second: transparent-sprite-portal-16_123
+  - first:
+      213: 8840584464633049056
+    second: transparent-sprite-portal-16_124
+  - first:
+      213: 2356321575454475125
+    second: transparent-sprite-portal-16_125
+  - first:
+      213: -6483358595508974248
+    second: transparent-sprite-portal-16_126
+  - first:
+      213: 1589685984365116340
+    second: transparent-sprite-portal-16_127
+  - first:
+      213: -1281658923510277303
+    second: transparent-sprite-portal-16_128
+  - first:
+      213: -3082888003486630281
+    second: transparent-sprite-portal-16_129
+  - first:
+      213: -5879469505964920632
+    second: transparent-sprite-portal-16_130
+  - first:
+      213: 5146493703030489798
+    second: transparent-sprite-portal-16_131
+  - first:
+      213: -5625289310599298795
+    second: transparent-sprite-portal-16_132
+  - first:
+      213: -1271077777674008813
+    second: transparent-sprite-portal-16_133
+  - first:
+      213: 2723605933670574337
+    second: transparent-sprite-portal-16_134
+  - first:
+      213: 6236860183909512661
+    second: transparent-sprite-portal-16_135
+  - first:
+      213: 8609433995807930640
+    second: transparent-sprite-portal-16_136
+  - first:
+      213: -5926844372757032637
+    second: transparent-sprite-portal-16_137
+  - first:
+      213: 8152479502922738401
+    second: transparent-sprite-portal-16_138
+  - first:
+      213: -4538815545230414180
+    second: transparent-sprite-portal-16_139
+  - first:
+      213: 8579899309916920166
+    second: transparent-sprite-portal-16_140
+  - first:
+      213: 7674448735420398365
+    second: transparent-sprite-portal-16_141
+  - first:
+      213: -204574201746031622
+    second: transparent-sprite-portal-16_142
+  - first:
+      213: -8689245570627915623
+    second: transparent-sprite-portal-16_143
+  - first:
+      213: -753546358134741859
+    second: transparent-sprite-portal-16_144
+  - first:
+      213: 8710293337097545482
+    second: transparent-sprite-portal-16_145
+  - first:
+      213: -5197297393463282740
+    second: transparent-sprite-portal-16_146
+  - first:
+      213: -1223401201074886029
+    second: transparent-sprite-portal-16_147
+  - first:
+      213: -6596562668593068998
+    second: transparent-sprite-portal-16_148
+  - first:
+      213: -7796043096044530015
+    second: transparent-sprite-portal-16_149
+  - first:
+      213: 718762563698045070
+    second: transparent-sprite-portal-16_150
+  - first:
+      213: -8558204495649413053
+    second: transparent-sprite-portal-16_151
+  - first:
+      213: 8573208662386380219
+    second: transparent-sprite-portal-16_152
+  - first:
+      213: 7079341592646325464
+    second: transparent-sprite-portal-16_153
+  - first:
+      213: -1700819464387749366
+    second: transparent-sprite-portal-16_154
+  - first:
+      213: 1754462693402415861
+    second: transparent-sprite-portal-16_155
+  - first:
+      213: -8557903951936685693
+    second: transparent-sprite-portal-16_156
+  - first:
+      213: -2346830666003573990
+    second: transparent-sprite-portal-16_157
+  - first:
+      213: 2276082165032811799
+    second: transparent-sprite-portal-16_158
+  - first:
+      213: 5003392160179022595
+    second: transparent-sprite-portal-16_159
+  - first:
+      213: -5098177181290285143
+    second: transparent-sprite-portal-16_160
+  - first:
+      213: 6499663865773009602
+    second: transparent-sprite-portal-16_161
+  - first:
+      213: 2094905153745495832
+    second: transparent-sprite-portal-16_162
+  - first:
+      213: 7637577775306484717
+    second: transparent-sprite-portal-16_163
+  - first:
+      213: -6771065672915994028
+    second: transparent-sprite-portal-16_164
+  - first:
+      213: 3630836635659517548
+    second: transparent-sprite-portal-16_165
+  - first:
+      213: 6973696683357741389
+    second: transparent-sprite-portal-16_166
+  - first:
+      213: 941080672797229205
+    second: transparent-sprite-portal-16_167
+  - first:
+      213: 1825963352338974416
+    second: transparent-sprite-portal-16_168
+  - first:
+      213: -4485368764054860446
+    second: transparent-sprite-portal-16_169
+  - first:
+      213: -5802414373899149001
+    second: transparent-sprite-portal-16_170
+  - first:
+      213: 428167545901464312
+    second: transparent-sprite-portal-16_171
+  - first:
+      213: -4144827075586066671
+    second: transparent-sprite-portal-16_172
+  - first:
+      213: 2103954692712473819
+    second: transparent-sprite-portal-16_173
+  - first:
+      213: -15810383153431429
+    second: transparent-sprite-portal-16_174
+  - first:
+      213: 6463468886198568735
+    second: transparent-sprite-portal-16_175
+  - first:
+      213: 1258822293593765762
+    second: transparent-sprite-portal-16_176
+  - first:
+      213: 360886379945707042
+    second: transparent-sprite-portal-16_177
+  - first:
+      213: -3234088404655545980
+    second: transparent-sprite-portal-16_178
+  - first:
+      213: 5069629245937716594
+    second: transparent-sprite-portal-16_179
+  - first:
+      213: 8498670580386380057
+    second: transparent-sprite-portal-16_180
+  - first:
+      213: 2104473603650770889
+    second: transparent-sprite-portal-16_181
+  - first:
+      213: 2577246038359951943
+    second: transparent-sprite-portal-16_182
+  - first:
+      213: -5776564441375528921
+    second: transparent-sprite-portal-16_183
+  - first:
+      213: 1692542869995225818
+    second: transparent-sprite-portal-16_184
+  - first:
+      213: -4636559555775967230
+    second: transparent-sprite-portal-16_185
+  - first:
+      213: 326883915065348555
+    second: transparent-sprite-portal-16_186
+  - first:
+      213: -21597147290917439
+    second: transparent-sprite-portal-16_187
+  - first:
+      213: -4512622947095333311
+    second: transparent-sprite-portal-16_188
+  - first:
+      213: -4356243988955440056
+    second: transparent-sprite-portal-16_189
+  - first:
+      213: 6414931042907109890
+    second: transparent-sprite-portal-16_190
+  - first:
+      213: -2299091570296730869
+    second: transparent-sprite-portal-16_191
+  - first:
+      213: 1185517151355428267
+    second: transparent-sprite-portal-16_192
+  - first:
+      213: -2270611828508782316
+    second: transparent-sprite-portal-16_193
+  - first:
+      213: -2406422269450939999
+    second: transparent-sprite-portal-16_194
+  - first:
+      213: -364338820307572013
+    second: transparent-sprite-portal-16_195
+  - first:
+      213: 5379214426986347750
+    second: transparent-sprite-portal-16_196
+  - first:
+      213: 5795764114702619099
+    second: transparent-sprite-portal-16_197
+  - first:
+      213: 2833600797581211526
+    second: transparent-sprite-portal-16_198
+  - first:
+      213: 8203062267471274566
+    second: transparent-sprite-portal-16_199
+  - first:
+      213: -398432518305622352
+    second: transparent-sprite-portal-16_200
+  - first:
+      213: -2793958989571294103
+    second: transparent-sprite-portal-16_201
+  - first:
+      213: 3615189608388433910
+    second: transparent-sprite-portal-16_202
+  - first:
+      213: -4052763713870460708
+    second: transparent-sprite-portal-16_203
+  - first:
+      213: -4937802779345397746
+    second: transparent-sprite-portal-16_204
+  - first:
+      213: 2595407025677182080
+    second: transparent-sprite-portal-16_205
+  - first:
+      213: -4313581662154866566
+    second: transparent-sprite-portal-16_206
+  - first:
+      213: -2564487825076144343
+    second: transparent-sprite-portal-16_207
+  - first:
+      213: -5560931075549370142
+    second: transparent-sprite-portal-16_208
+  - first:
+      213: -458850784326692104
+    second: transparent-sprite-portal-16_209
+  - first:
+      213: -4564405542909989552
+    second: transparent-sprite-portal-16_210
+  - first:
+      213: 3374927930506761346
+    second: transparent-sprite-portal-16_211
+  - first:
+      213: -5124851742197444091
+    second: transparent-sprite-portal-16_212
+  - first:
+      213: 8823539523826366732
+    second: transparent-sprite-portal-16_213
+  - first:
+      213: 5439440432899094893
+    second: transparent-sprite-portal-16_214
+  - first:
+      213: -1118628837646947956
+    second: transparent-sprite-portal-16_215
+  - first:
+      213: 7567463202925572966
+    second: transparent-sprite-portal-16_216
+  - first:
+      213: -595888933766754343
+    second: transparent-sprite-portal-16_217
+  - first:
+      213: -493414307531490097
+    second: transparent-sprite-portal-16_218
+  - first:
+      213: -6500586113176690246
+    second: transparent-sprite-portal-16_219
+  - first:
+      213: -8144975252670151766
+    second: transparent-sprite-portal-16_220
+  - first:
+      213: 987449815007664670
+    second: transparent-sprite-portal-16_221
+  - first:
+      213: -8822638592173442469
+    second: transparent-sprite-portal-16_222
+  - first:
+      213: 1904748564903746780
+    second: transparent-sprite-portal-16_223
+  - first:
+      213: -5388228043060129837
+    second: transparent-sprite-portal-16_224
+  - first:
+      213: -8655989101400916872
+    second: transparent-sprite-portal-16_225
+  - first:
+      213: -5631900317935255348
+    second: transparent-sprite-portal-16_226
+  - first:
+      213: 304601734273527432
+    second: transparent-sprite-portal-16_227
+  - first:
+      213: -7177491811721068793
+    second: transparent-sprite-portal-16_228
+  - first:
+      213: 6906378963777867880
+    second: transparent-sprite-portal-16_229
+  - first:
+      213: 268018738211928313
+    second: transparent-sprite-portal-16_230
+  - first:
+      213: 8387576504968146598
+    second: transparent-sprite-portal-16_231
+  - first:
+      213: -5169299182007134745
+    second: transparent-sprite-portal-16_232
+  - first:
+      213: -1138182659570162499
+    second: transparent-sprite-portal-16_233
+  - first:
+      213: -1137359440049828604
+    second: transparent-sprite-portal-16_234
+  - first:
+      213: -2971691056530387083
+    second: transparent-sprite-portal-16_235
+  - first:
+      213: 2268229946663705220
+    second: transparent-sprite-portal-16_236
+  - first:
+      213: 4828551664637203355
+    second: transparent-sprite-portal-16_237
+  - first:
+      213: -8872870000484579301
+    second: transparent-sprite-portal-16_238
+  - first:
+      213: 8810460618281842841
+    second: transparent-sprite-portal-16_239
+  - first:
+      213: -6644343372923744284
+    second: transparent-sprite-portal-16_240
+  - first:
+      213: -8221227818356165695
+    second: transparent-sprite-portal-16_241
+  - first:
+      213: 7244328214790925884
+    second: transparent-sprite-portal-16_242
+  - first:
+      213: 6388298137045692668
+    second: transparent-sprite-portal-16_243
+  - first:
+      213: -2246184845036428892
+    second: transparent-sprite-portal-16_244
+  - first:
+      213: -7534571471300090204
+    second: transparent-sprite-portal-16_245
+  - first:
+      213: 5957083902961618758
+    second: transparent-sprite-portal-16_246
+  - first:
+      213: 316249603224473194
+    second: transparent-sprite-portal-16_247
+  - first:
+      213: 7682048492349340138
+    second: transparent-sprite-portal-16_248
+  - first:
+      213: 7177808770254940395
+    second: transparent-sprite-portal-16_249
+  - first:
+      213: 2489367858409218116
+    second: transparent-sprite-portal-16_250
+  - first:
+      213: -2705789916333795178
+    second: transparent-sprite-portal-16_251
+  - first:
+      213: 3469382091051413099
+    second: transparent-sprite-portal-16_252
+  - first:
+      213: 996651027958930466
+    second: transparent-sprite-portal-16_253
+  - first:
+      213: 6767102861045825910
+    second: transparent-sprite-portal-16_254
+  - first:
+      213: -1056486556424741204
+    second: transparent-sprite-portal-16_255
+  - first:
+      213: 5758778911609204150
+    second: transparent-sprite-portal-16_256
+  - first:
+      213: 6053108150274929026
+    second: transparent-sprite-portal-16_257
+  - first:
+      213: 2045248191376852951
+    second: transparent-sprite-portal-16_258
+  - first:
+      213: 5344253708167698750
+    second: transparent-sprite-portal-16_259
+  - first:
+      213: 1181082973523175028
+    second: transparent-sprite-portal-16_260
+  - first:
+      213: -961328987146040611
+    second: transparent-sprite-portal-16_261
+  - first:
+      213: 5612843701825699038
+    second: transparent-sprite-portal-16_262
+  - first:
+      213: -5663529771095639886
+    second: transparent-sprite-portal-16_263
+  - first:
+      213: 5073603540033429024
+    second: transparent-sprite-portal-16_264
+  - first:
+      213: 7759933003111464167
+    second: transparent-sprite-portal-16_265
+  - first:
+      213: 3156514408213903579
+    second: transparent-sprite-portal-16_266
+  - first:
+      213: -6528689337642081026
+    second: transparent-sprite-portal-16_267
+  - first:
+      213: 2777798309857204771
+    second: transparent-sprite-portal-16_268
+  - first:
+      213: -7071071682770379032
+    second: transparent-sprite-portal-16_269
+  - first:
+      213: 1095060419790678397
+    second: transparent-sprite-portal-16_270
+  - first:
+      213: 1837394641277616143
+    second: transparent-sprite-portal-16_271
+  - first:
+      213: 1293252659592226509
+    second: transparent-sprite-portal-16_272
+  - first:
+      213: 8677487369421489493
+    second: transparent-sprite-portal-16_273
+  - first:
+      213: -6141034511832898262
+    second: transparent-sprite-portal-16_274
+  - first:
+      213: 9092288571059552494
+    second: transparent-sprite-portal-16_275
+  - first:
+      213: -4022245665778613158
+    second: transparent-sprite-portal-16_276
+  - first:
+      213: 5555584024020146678
+    second: transparent-sprite-portal-16_277
+  - first:
+      213: 5135563812451187514
+    second: transparent-sprite-portal-16_278
+  - first:
+      213: -2493108787690770442
+    second: transparent-sprite-portal-16_279
+  - first:
+      213: 4911609741560447043
+    second: transparent-sprite-portal-16_280
+  - first:
+      213: -4255046533091334565
+    second: transparent-sprite-portal-16_281
+  - first:
+      213: 3488638844729712139
+    second: transparent-sprite-portal-16_282
+  - first:
+      213: -618341356293834524
+    second: transparent-sprite-portal-16_283
+  - first:
+      213: 2943172195617004703
+    second: transparent-sprite-portal-16_284
+  - first:
+      213: 3958679109220112960
+    second: transparent-sprite-portal-16_285
+  - first:
+      213: -1974953966965972794
+    second: transparent-sprite-portal-16_286
+  - first:
+      213: 3750961179460603685
+    second: transparent-sprite-portal-16_287
+  - first:
+      213: -6720196268258325967
+    second: transparent-sprite-portal-16_288
+  - first:
+      213: -418209353163683653
+    second: transparent-sprite-portal-16_289
+  - first:
+      213: -1873422081728161199
+    second: transparent-sprite-portal-16_290
+  - first:
+      213: 8707311555211434541
+    second: transparent-sprite-portal-16_291
+  - first:
+      213: -2611609941897589119
+    second: transparent-sprite-portal-16_292
+  - first:
+      213: 7191215850861655367
+    second: transparent-sprite-portal-16_293
+  - first:
+      213: -3719577076748414002
+    second: transparent-sprite-portal-16_294
+  - first:
+      213: 9137196474688481564
+    second: transparent-sprite-portal-16_295
+  - first:
+      213: -2258526515887974074
+    second: transparent-sprite-portal-16_296
+  - first:
+      213: 4639424939418375263
+    second: transparent-sprite-portal-16_297
+  - first:
+      213: 8860123999209507180
+    second: transparent-sprite-portal-16_298
+  - first:
+      213: -1266973569572597017
+    second: transparent-sprite-portal-16_299
+  - first:
+      213: -9196213425972121747
+    second: transparent-sprite-portal-16_300
+  - first:
+      213: -8220716192643353230
+    second: transparent-sprite-portal-16_301
+  - first:
+      213: -1650960389291985351
+    second: transparent-sprite-portal-16_302
+  - first:
+      213: 4221604914475491715
+    second: transparent-sprite-portal-16_303
+  - first:
+      213: -2672912669002527179
+    second: transparent-sprite-portal-16_304
+  - first:
+      213: -732486538353319725
+    second: transparent-sprite-portal-16_305
+  - first:
+      213: 444795955863998592
+    second: transparent-sprite-portal-16_306
+  - first:
+      213: 1011211036411213487
+    second: transparent-sprite-portal-16_307
+  - first:
+      213: -4936069004899950287
+    second: transparent-sprite-portal-16_308
+  - first:
+      213: 2692624244325679177
+    second: transparent-sprite-portal-16_309
+  - first:
+      213: -9159641380229179993
+    second: transparent-sprite-portal-16_310
+  - first:
+      213: -4604906852247861587
+    second: transparent-sprite-portal-16_311
+  - first:
+      213: -3994283307670191490
+    second: transparent-sprite-portal-16_312
+  - first:
+      213: 286883042959292912
+    second: transparent-sprite-portal-16_313
+  - first:
+      213: -4538519128296756373
+    second: transparent-sprite-portal-16_314
+  - first:
+      213: 3204059625123563083
+    second: transparent-sprite-portal-16_315
+  - first:
+      213: 2575293912676300921
+    second: transparent-sprite-portal-16_316
+  - first:
+      213: 3231453109516595520
+    second: transparent-sprite-portal-16_317
+  - first:
+      213: -1402000517939129454
+    second: transparent-sprite-portal-16_318
+  - first:
+      213: -7650320519524246717
+    second: transparent-sprite-portal-16_319
+  - first:
+      213: -2283932164378219672
+    second: transparent-sprite-portal-16_320
+  - first:
+      213: -6094732820190901467
+    second: transparent-sprite-portal-16_321
+  - first:
+      213: -1465774689609280141
+    second: transparent-sprite-portal-16_322
+  - first:
+      213: 6228152982572263943
+    second: transparent-sprite-portal-16_323
+  - first:
+      213: -6047522447719963195
+    second: transparent-sprite-portal-16_324
+  - first:
+      213: 3900907948960698185
+    second: transparent-sprite-portal-16_325
+  - first:
+      213: -8229358772544194866
+    second: transparent-sprite-portal-16_326
+  - first:
+      213: -1645871220250106347
+    second: transparent-sprite-portal-16_327
+  - first:
+      213: -1313237957708032794
+    second: transparent-sprite-portal-16_328
+  - first:
+      213: -256695506373775667
+    second: transparent-sprite-portal-16_329
+  - first:
+      213: 6330466225615305522
+    second: transparent-sprite-portal-16_330
+  - first:
+      213: -4370210893078191575
+    second: transparent-sprite-portal-16_331
+  - first:
+      213: -4423159911842564347
+    second: transparent-sprite-portal-16_332
+  - first:
+      213: -8498629135240685880
+    second: transparent-sprite-portal-16_333
+  - first:
+      213: 87402292126433749
+    second: transparent-sprite-portal-16_334
+  - first:
+      213: 7617293923791138845
+    second: transparent-sprite-portal-16_335
+  - first:
+      213: -7911106899724869628
+    second: transparent-sprite-portal-16_336
+  - first:
+      213: -2179042307155777871
+    second: transparent-sprite-portal-16_337
+  - first:
+      213: -1817340518746051546
+    second: transparent-sprite-portal-16_338
+  - first:
+      213: 3726045356173823786
+    second: transparent-sprite-portal-16_339
+  - first:
+      213: 5938762707474508004
+    second: transparent-sprite-portal-16_340
+  - first:
+      213: 7665201112327304595
+    second: transparent-sprite-portal-16_341
+  - first:
+      213: -4299553651388598011
+    second: transparent-sprite-portal-16_342
+  - first:
+      213: 4391860549240942350
+    second: transparent-sprite-portal-16_343
+  - first:
+      213: -480079782466950688
+    second: transparent-sprite-portal-16_344
+  - first:
+      213: 1956011223139435737
+    second: transparent-sprite-portal-16_345
+  - first:
+      213: -1422818160971333054
+    second: transparent-sprite-portal-16_346
+  - first:
+      213: 4239188990216425327
+    second: transparent-sprite-portal-16_347
+  - first:
+      213: 359036343985339247
+    second: transparent-sprite-portal-16_348
+  - first:
+      213: 7526042378978319101
+    second: transparent-sprite-portal-16_349
+  - first:
+      213: 4988917846289742531
+    second: transparent-sprite-portal-16_350
+  - first:
+      213: -7259242860120857375
+    second: transparent-sprite-portal-16_351
+  - first:
+      213: 8862490768534427216
+    second: transparent-sprite-portal-16_352
+  - first:
+      213: -4503976321849681777
+    second: transparent-sprite-portal-16_353
+  - first:
+      213: 2073011678485058760
+    second: transparent-sprite-portal-16_354
+  - first:
+      213: 8096119290931490226
+    second: transparent-sprite-portal-16_355
+  - first:
+      213: -4978559871559733816
+    second: transparent-sprite-portal-16_356
+  - first:
+      213: -4193952721520068149
+    second: transparent-sprite-portal-16_357
+  - first:
+      213: 8072593189053645410
+    second: transparent-sprite-portal-16_358
+  - first:
+      213: 4056854887224460411
+    second: transparent-sprite-portal-16_359
+  - first:
+      213: -3249153016007911245
+    second: transparent-sprite-portal-16_360
+  - first:
+      213: 935010386741713037
+    second: transparent-sprite-portal-16_361
+  - first:
+      213: -7715410139755585693
+    second: transparent-sprite-portal-16_362
+  - first:
+      213: 2801685836395248673
+    second: transparent-sprite-portal-16_363
+  - first:
+      213: 8605279844138193764
+    second: transparent-sprite-portal-16_364
+  - first:
+      213: -2637254047583836822
+    second: transparent-sprite-portal-16_365
+  - first:
+      213: -4298141135265332118
+    second: transparent-sprite-portal-16_366
+  - first:
+      213: -7578435142350227314
+    second: transparent-sprite-portal-16_367
+  - first:
+      213: -259625773328527785
+    second: transparent-sprite-portal-16_368
+  - first:
+      213: -1108849597090084257
+    second: transparent-sprite-portal-16_369
+  - first:
+      213: -6164831863459687795
+    second: transparent-sprite-portal-16_370
+  - first:
+      213: -6267607882256108407
+    second: transparent-sprite-portal-16_371
+  - first:
+      213: -4427756717316705865
+    second: transparent-sprite-portal-16_372
+  - first:
+      213: -7872340048161517234
+    second: transparent-sprite-portal-16_373
+  - first:
+      213: -103873104252164298
+    second: transparent-sprite-portal-16_374
+  - first:
+      213: 8339538677833217703
+    second: transparent-sprite-portal-16_375
+  - first:
+      213: 5351706858193717389
+    second: transparent-sprite-portal-16_376
+  - first:
+      213: -5973417093073246954
+    second: transparent-sprite-portal-16_377
+  - first:
+      213: 7623892910406986625
+    second: transparent-sprite-portal-16_378
+  - first:
+      213: -3193117277884170034
+    second: transparent-sprite-portal-16_379
+  - first:
+      213: -6637111559799007372
+    second: transparent-sprite-portal-16_380
+  - first:
+      213: 5675274502488728186
+    second: transparent-sprite-portal-16_381
+  - first:
+      213: -3103265569119764345
+    second: transparent-sprite-portal-16_382
+  - first:
+      213: 8296757343645795579
+    second: transparent-sprite-portal-16_383
+  - first:
+      213: 8196412465975881840
+    second: transparent-sprite-portal-16_384
+  - first:
+      213: -7108824222088522381
+    second: transparent-sprite-portal-16_385
+  - first:
+      213: -4140163006306826779
+    second: transparent-sprite-portal-16_386
+  - first:
+      213: -5860620136801068606
+    second: transparent-sprite-portal-16_387
+  - first:
+      213: -6635194135577857873
+    second: transparent-sprite-portal-16_388
+  - first:
+      213: -2038313555022902219
+    second: transparent-sprite-portal-16_389
+  - first:
+      213: -1634958165937168818
+    second: transparent-sprite-portal-16_390
+  - first:
+      213: -1106857462872242716
+    second: transparent-sprite-portal-16_391
+  - first:
+      213: 4258834465168621005
+    second: transparent-sprite-portal-16_392
+  - first:
+      213: 1207730471721638320
+    second: transparent-sprite-portal-16_393
+  - first:
+      213: 7304671557137287095
+    second: transparent-sprite-portal-16_394
+  - first:
+      213: 1520031093573022407
+    second: transparent-sprite-portal-16_395
+  - first:
+      213: 4331029991242566939
+    second: transparent-sprite-portal-16_396
+  - first:
+      213: 3904261748156388753
+    second: transparent-sprite-portal-16_397
+  - first:
+      213: 8084946683880772430
+    second: transparent-sprite-portal-16_398
+  - first:
+      213: -244609296826734976
+    second: transparent-sprite-portal-16_399
+  - first:
+      213: -7288820784618003738
+    second: transparent-sprite-portal-16_400
+  - first:
+      213: -4841111705582969212
+    second: transparent-sprite-portal-16_401
+  - first:
+      213: 951525476688964522
+    second: transparent-sprite-portal-16_402
+  - first:
+      213: -909108008534463906
+    second: transparent-sprite-portal-16_403
+  - first:
+      213: 1097353538504918042
+    second: transparent-sprite-portal-16_404
+  - first:
+      213: -4750680143393073188
+    second: transparent-sprite-portal-16_405
+  - first:
+      213: 4152509437991980712
+    second: transparent-sprite-portal-16_406
+  - first:
+      213: 5868805777931425695
+    second: transparent-sprite-portal-16_407
+  - first:
+      213: 6199157547605795742
+    second: transparent-sprite-portal-16_408
+  - first:
+      213: 7551210131505398513
+    second: transparent-sprite-portal-16_409
+  - first:
+      213: 1526975228459839545
+    second: transparent-sprite-portal-16_410
+  - first:
+      213: -8519199138032968296
+    second: transparent-sprite-portal-16_411
+  - first:
+      213: 1576202507360564680
+    second: transparent-sprite-portal-16_412
+  - first:
+      213: -7663390932486064598
+    second: transparent-sprite-portal-16_413
+  - first:
+      213: -4999445956401944833
+    second: transparent-sprite-portal-16_414
+  - first:
+      213: 4149206500486113785
+    second: transparent-sprite-portal-16_415
+  - first:
+      213: -267099675856444636
+    second: transparent-sprite-portal-16_416
+  - first:
+      213: -8988797361406046968
+    second: transparent-sprite-portal-16_417
+  - first:
+      213: 406674724366184037
+    second: transparent-sprite-portal-16_418
+  - first:
+      213: -2808324760058325891
+    second: transparent-sprite-portal-16_419
+  - first:
+      213: 6486369525632007106
+    second: transparent-sprite-portal-16_420
+  - first:
+      213: 1739481237095164730
+    second: transparent-sprite-portal-16_421
+  - first:
+      213: -202896857648909765
+    second: transparent-sprite-portal-16_422
+  - first:
+      213: -1610767073695609485
+    second: transparent-sprite-portal-16_423
+  - first:
+      213: -3325184733790664961
+    second: transparent-sprite-portal-16_424
+  - first:
+      213: -1325154702952647849
+    second: transparent-sprite-portal-16_425
+  - first:
+      213: 1399283311477811226
+    second: transparent-sprite-portal-16_426
+  - first:
+      213: -7331028828186922255
+    second: transparent-sprite-portal-16_427
+  - first:
+      213: 2564743403256388108
+    second: transparent-sprite-portal-16_428
+  - first:
+      213: -7339033998754123043
+    second: transparent-sprite-portal-16_429
+  - first:
+      213: 7000163305376075125
+    second: transparent-sprite-portal-16_430
+  - first:
+      213: -5457155123012442512
+    second: transparent-sprite-portal-16_431
+  - first:
+      213: -6805071122684133552
+    second: transparent-sprite-portal-16_432
+  - first:
+      213: -3393535377205822992
+    second: transparent-sprite-portal-16_433
+  - first:
+      213: 4881693746236505229
+    second: transparent-sprite-portal-16_434
+  - first:
+      213: 4488180776448786167
+    second: transparent-sprite-portal-16_435
+  - first:
+      213: 8017713306220839756
+    second: transparent-sprite-portal-16_436
+  - first:
+      213: 2187349564823150769
+    second: transparent-sprite-portal-16_437
+  - first:
+      213: 234764852886379522
+    second: transparent-sprite-portal-16_438
+  - first:
+      213: -457455688654897794
+    second: transparent-sprite-portal-16_439
+  - first:
+      213: 3630267997848711723
+    second: transparent-sprite-portal-16_440
+  - first:
+      213: -8490829870067753458
+    second: transparent-sprite-portal-16_441
+  - first:
+      213: -5291439028490671409
+    second: transparent-sprite-portal-16_442
+  - first:
+      213: 7326100882307499637
+    second: transparent-sprite-portal-16_443
+  - first:
+      213: 3098606157277035634
+    second: transparent-sprite-portal-16_444
+  - first:
+      213: 3679082423968762596
+    second: transparent-sprite-portal-16_445
+  - first:
+      213: 4182339953224360918
+    second: transparent-sprite-portal-16_446
+  - first:
+      213: -8368373122700710504
+    second: transparent-sprite-portal-16_447
+  - first:
+      213: 8509519966478905934
+    second: transparent-sprite-portal-16_448
+  - first:
+      213: 6936030931118486789
+    second: transparent-sprite-portal-16_449
+  - first:
+      213: -2020165307574641926
+    second: transparent-sprite-portal-16_450
+  - first:
+      213: 6459575931635655478
+    second: transparent-sprite-portal-16_451
+  - first:
+      213: -414908513919677644
+    second: transparent-sprite-portal-16_452
+  - first:
+      213: -1151822383303716034
+    second: transparent-sprite-portal-16_453
+  - first:
+      213: -7142999966187036978
+    second: transparent-sprite-portal-16_454
+  - first:
+      213: -5678596605624820799
+    second: transparent-sprite-portal-16_455
+  - first:
+      213: 123970637745240706
+    second: transparent-sprite-portal-16_456
+  - first:
+      213: -559658720676524164
+    second: transparent-sprite-portal-16_457
+  - first:
+      213: -7257518562927759549
+    second: transparent-sprite-portal-16_458
+  - first:
+      213: 6844955738031647885
+    second: transparent-sprite-portal-16_459
+  - first:
+      213: -887218921659347757
+    second: transparent-sprite-portal-16_460
+  - first:
+      213: 6776305295319664620
+    second: transparent-sprite-portal-16_461
+  - first:
+      213: -7955878608594782995
+    second: transparent-sprite-portal-16_462
+  - first:
+      213: 5170506576475585648
+    second: transparent-sprite-portal-16_463
+  - first:
+      213: 656090193174917687
+    second: transparent-sprite-portal-16_464
+  - first:
+      213: 4707656907385191741
+    second: transparent-sprite-portal-16_465
+  - first:
+      213: -4165153827267446751
+    second: transparent-sprite-portal-16_466
+  - first:
+      213: -8676620583096011447
+    second: transparent-sprite-portal-16_467
+  - first:
+      213: -2253633793958344353
+    second: transparent-sprite-portal-16_468
+  - first:
+      213: -3605300815646986301
+    second: transparent-sprite-portal-16_469
+  - first:
+      213: 3214374713930675524
+    second: transparent-sprite-portal-16_470
+  - first:
+      213: 948640096458380091
+    second: transparent-sprite-portal-16_471
+  - first:
+      213: 5878559482513492344
+    second: transparent-sprite-portal-16_472
+  - first:
+      213: 475667700394630677
+    second: transparent-sprite-portal-16_473
+  - first:
+      213: -932649480779097658
+    second: transparent-sprite-portal-16_474
+  - first:
+      213: -8732377132188056783
+    second: transparent-sprite-portal-16_475
+  - first:
+      213: 31331960380885563
+    second: transparent-sprite-portal-16_476
+  - first:
+      213: -3451495507836298188
+    second: transparent-sprite-portal-16_477
+  - first:
+      213: 7804834559057151315
+    second: transparent-sprite-portal-16_478
+  - first:
+      213: 270277686359879453
+    second: transparent-sprite-portal-16_479
+  - first:
+      213: -2772666454805214441
+    second: transparent-sprite-portal-16_480
+  - first:
+      213: -4029085244829751238
+    second: transparent-sprite-portal-16_481
+  - first:
+      213: 9095526136150818906
+    second: transparent-sprite-portal-16_482
+  - first:
+      213: 3592226848304313467
+    second: transparent-sprite-portal-16_483
+  - first:
+      213: 7649790415795309390
+    second: transparent-sprite-portal-16_484
+  - first:
+      213: 2513967575125380249
+    second: transparent-sprite-portal-16_485
+  - first:
+      213: -4530038779481013782
+    second: transparent-sprite-portal-16_486
+  - first:
+      213: -7943540544800365608
+    second: transparent-sprite-portal-16_487
+  - first:
+      213: 618770405278459629
+    second: transparent-sprite-portal-16_488
+  - first:
+      213: -254887554777092664
+    second: transparent-sprite-portal-16_489
+  - first:
+      213: 2675188709748800874
+    second: transparent-sprite-portal-16_490
+  - first:
+      213: -6029026442291881487
+    second: transparent-sprite-portal-16_491
+  - first:
+      213: 1785373972606728412
+    second: transparent-sprite-portal-16_492
+  - first:
+      213: 2973961964037054641
+    second: transparent-sprite-portal-16_493
+  - first:
+      213: -6806312039433503646
+    second: transparent-sprite-portal-16_494
+  - first:
+      213: -7958637672420272513
+    second: transparent-sprite-portal-16_495
+  - first:
+      213: 2581338591355937745
+    second: transparent-sprite-portal-16_496
+  - first:
+      213: 4349279007789495670
+    second: transparent-sprite-portal-16_497
+  - first:
+      213: -5451172344089904612
+    second: transparent-sprite-portal-16_498
+  - first:
+      213: 6885002209749956898
+    second: transparent-sprite-portal-16_499
+  - first:
+      213: 6762067062229242006
+    second: transparent-sprite-portal-16_500
+  - first:
+      213: 6019280861316434233
+    second: transparent-sprite-portal-16_501
+  - first:
+      213: 8935228958852114516
+    second: transparent-sprite-portal-16_502
+  - first:
+      213: -7353445898340982694
+    second: transparent-sprite-portal-16_503
+  - first:
+      213: 6814560330976786892
+    second: transparent-sprite-portal-16_504
+  - first:
+      213: -555268974940216346
+    second: transparent-sprite-portal-16_505
+  - first:
+      213: 5257019878507028684
+    second: transparent-sprite-portal-16_506
+  - first:
+      213: -5771750116249624100
+    second: transparent-sprite-portal-16_507
+  - first:
+      213: -7290259540761481447
+    second: transparent-sprite-portal-16_508
+  - first:
+      213: 6945778627791617882
+    second: transparent-sprite-portal-16_509
+  - first:
+      213: 4586381911088615206
+    second: transparent-sprite-portal-16_510
+  - first:
+      213: -6573445144248365707
+    second: transparent-sprite-portal-16_511
+  - first:
+      213: -5291803996542343683
+    second: transparent-sprite-portal-16_512
+  - first:
+      213: 4383310111097528385
+    second: transparent-sprite-portal-16_513
+  - first:
+      213: -8384360410250833039
+    second: transparent-sprite-portal-16_514
+  - first:
+      213: 926420832027129133
+    second: transparent-sprite-portal-16_515
+  - first:
+      213: 5425423774424699504
+    second: transparent-sprite-portal-16_516
+  - first:
+      213: -7329540886218952088
+    second: transparent-sprite-portal-16_517
+  - first:
+      213: 8349655679440055869
+    second: transparent-sprite-portal-16_518
+  - first:
+      213: -4428130600935862974
+    second: transparent-sprite-portal-16_519
+  - first:
+      213: -146374297937314580
+    second: transparent-sprite-portal-16_520
+  - first:
+      213: 7955334477907817431
+    second: transparent-sprite-portal-16_521
+  - first:
+      213: -7847935953084471130
+    second: transparent-sprite-portal-16_522
+  - first:
+      213: -8404541644650722250
+    second: transparent-sprite-portal-16_523
+  - first:
+      213: 7543621934023585087
+    second: transparent-sprite-portal-16_524
+  - first:
+      213: 6009585689735926464
+    second: transparent-sprite-portal-16_525
+  - first:
+      213: -7196397577800419825
+    second: transparent-sprite-portal-16_526
+  - first:
+      213: -6898066095750848589
+    second: transparent-sprite-portal-16_527
+  - first:
+      213: -1183094938271215521
+    second: transparent-sprite-portal-16_528
+  - first:
+      213: -1970221718526480485
+    second: transparent-sprite-portal-16_529
+  - first:
+      213: -6126682152762319943
+    second: transparent-sprite-portal-16_530
+  - first:
+      213: 2732692492311910612
+    second: transparent-sprite-portal-16_531
+  - first:
+      213: -7343481856029182583
+    second: transparent-sprite-portal-16_532
+  - first:
+      213: 1357364235186588947
+    second: transparent-sprite-portal-16_533
+  - first:
+      213: 6011920301639869898
+    second: transparent-sprite-portal-16_534
+  - first:
+      213: 3335526960943587553
+    second: transparent-sprite-portal-16_535
+  - first:
+      213: -1604408695388121783
+    second: transparent-sprite-portal-16_536
+  - first:
+      213: 7047704388582136926
+    second: transparent-sprite-portal-16_537
+  - first:
+      213: 4140245631333465968
+    second: transparent-sprite-portal-16_538
+  - first:
+      213: -1067682525577860956
+    second: transparent-sprite-portal-16_539
+  - first:
+      213: -6325087772141683093
+    second: transparent-sprite-portal-16_540
+  - first:
+      213: 6645461847326555485
+    second: transparent-sprite-portal-16_541
+  - first:
+      213: -7265680807396604499
+    second: transparent-sprite-portal-16_542
+  - first:
+      213: -375180393399683533
+    second: transparent-sprite-portal-16_543
+  - first:
+      213: 1449394751247278961
+    second: transparent-sprite-portal-16_544
+  - first:
+      213: -6628380229768807731
+    second: transparent-sprite-portal-16_545
+  - first:
+      213: 4478158029342765547
+    second: transparent-sprite-portal-16_546
+  - first:
+      213: 890151458949201881
+    second: transparent-sprite-portal-16_547
+  - first:
+      213: -7673249183174722643
+    second: transparent-sprite-portal-16_548
+  - first:
+      213: -6608362343840241897
+    second: transparent-sprite-portal-16_549
+  - first:
+      213: 4037253348312449073
+    second: transparent-sprite-portal-16_550
+  - first:
+      213: 7638889232304439291
+    second: transparent-sprite-portal-16_551
+  - first:
+      213: -7024525627836759533
+    second: transparent-sprite-portal-16_552
+  - first:
+      213: 5983860767641996653
+    second: transparent-sprite-portal-16_553
+  - first:
+      213: -8960190083252110228
+    second: transparent-sprite-portal-16_554
+  - first:
+      213: 3860013435885429834
+    second: transparent-sprite-portal-16_555
+  - first:
+      213: 1545054962641436006
+    second: transparent-sprite-portal-16_556
+  - first:
+      213: -3765374562316761157
+    second: transparent-sprite-portal-16_557
+  - first:
+      213: -1417138828364797524
+    second: transparent-sprite-portal-16_558
+  - first:
+      213: -2206862189698140994
+    second: transparent-sprite-portal-16_559
+  - first:
+      213: 4468734517729560784
+    second: transparent-sprite-portal-16_560
+  - first:
+      213: -5321292978908745370
+    second: transparent-sprite-portal-16_561
+  - first:
+      213: 2739051280454076029
+    second: transparent-sprite-portal-16_562
+  - first:
+      213: 8267463864775315283
+    second: transparent-sprite-portal-16_563
+  - first:
+      213: 8260691287942943965
+    second: transparent-sprite-portal-16_564
+  - first:
+      213: 9154009162235567364
+    second: transparent-sprite-portal-16_565
+  - first:
+      213: 9098296932592685238
+    second: transparent-sprite-portal-16_566
+  - first:
+      213: 1138000475088631251
+    second: transparent-sprite-portal-16_567
+  - first:
+      213: 1884162519396386973
+    second: transparent-sprite-portal-16_568
+  - first:
+      213: -2354813044547468455
+    second: transparent-sprite-portal-16_569
+  - first:
+      213: -3201209537575912109
+    second: transparent-sprite-portal-16_570
+  - first:
+      213: 8957735107959916094
+    second: transparent-sprite-portal-16_571
+  - first:
+      213: -639405775503207044
+    second: transparent-sprite-portal-16_572
+  - first:
+      213: 2019320332720239985
+    second: transparent-sprite-portal-16_573
+  - first:
+      213: 5328161880563470490
+    second: transparent-sprite-portal-16_574
+  - first:
+      213: 8920751351464193681
+    second: transparent-sprite-portal-16_575
+  - first:
+      213: -1440633395990781565
+    second: transparent-sprite-portal-16_576
+  - first:
+      213: -9025976623585374108
+    second: transparent-sprite-portal-16_577
+  - first:
+      213: 1347871808689673729
+    second: transparent-sprite-portal-16_578
+  - first:
+      213: -4676565066628370069
+    second: transparent-sprite-portal-16_579
+  - first:
+      213: -3779313799540028557
+    second: transparent-sprite-portal-16_580
+  - first:
+      213: 2773728195699305277
+    second: transparent-sprite-portal-16_581
+  - first:
+      213: 7102995330201962025
+    second: transparent-sprite-portal-16_582
+  - first:
+      213: 4127340971110242160
+    second: transparent-sprite-portal-16_583
+  - first:
+      213: -7334395171039549887
+    second: transparent-sprite-portal-16_584
+  - first:
+      213: -4774877891812645699
+    second: transparent-sprite-portal-16_585
+  - first:
+      213: -3164986917638206452
+    second: transparent-sprite-portal-16_586
+  - first:
+      213: 4469879838984243449
+    second: transparent-sprite-portal-16_587
+  - first:
+      213: -6569319086220418366
+    second: transparent-sprite-portal-16_588
+  - first:
+      213: -531082418789645299
+    second: transparent-sprite-portal-16_589
+  - first:
+      213: -8190406486320159536
+    second: transparent-sprite-portal-16_590
+  - first:
+      213: 4279303638048015717
+    second: transparent-sprite-portal-16_591
+  - first:
+      213: 4198414500627899238
+    second: transparent-sprite-portal-16_592
+  - first:
+      213: 2410068981947610998
+    second: transparent-sprite-portal-16_593
+  - first:
+      213: -6982521719948888110
+    second: transparent-sprite-portal-16_594
+  - first:
+      213: -2156695544964262110
+    second: transparent-sprite-portal-16_595
+  - first:
+      213: 1549768593478191147
+    second: transparent-sprite-portal-16_596
+  - first:
+      213: -4734339917272011997
+    second: transparent-sprite-portal-16_597
+  - first:
+      213: -588815403077097246
+    second: transparent-sprite-portal-16_598
+  - first:
+      213: -3608526437731910435
+    second: transparent-sprite-portal-16_599
+  - first:
+      213: -5914295088604512292
+    second: transparent-sprite-portal-16_600
+  - first:
+      213: -2552032109533304528
+    second: transparent-sprite-portal-16_601
+  - first:
+      213: -5812483825422100535
+    second: transparent-sprite-portal-16_602
+  - first:
+      213: 1205750445178487836
+    second: transparent-sprite-portal-16_603
+  - first:
+      213: -7883053687699251024
+    second: transparent-sprite-portal-16_604
+  - first:
+      213: 6265529815333869774
+    second: transparent-sprite-portal-16_605
+  - first:
+      213: 8859717596237412959
+    second: transparent-sprite-portal-16_606
+  - first:
+      213: 5994099184912543978
+    second: transparent-sprite-portal-16_607
+  - first:
+      213: -5198547643604014961
+    second: transparent-sprite-portal-16_608
+  - first:
+      213: 6357244107909228984
+    second: transparent-sprite-portal-16_609
+  - first:
+      213: -5327689532989931674
+    second: transparent-sprite-portal-16_610
+  - first:
+      213: -1369427502349864000
+    second: transparent-sprite-portal-16_611
+  - first:
+      213: 5688631450550397388
+    second: transparent-sprite-portal-16_612
+  - first:
+      213: -7117573539192456314
+    second: transparent-sprite-portal-16_613
+  - first:
+      213: -3872274933285705144
+    second: transparent-sprite-portal-16_614
+  - first:
+      213: -3761640017979411849
+    second: transparent-sprite-portal-16_615
+  - first:
+      213: -5507419774170937992
+    second: transparent-sprite-portal-16_616
+  - first:
+      213: 6781990524889044012
+    second: transparent-sprite-portal-16_617
+  - first:
+      213: 2112981671657961841
+    second: transparent-sprite-portal-16_618
+  - first:
+      213: -2380822726514035940
+    second: transparent-sprite-portal-16_619
+  - first:
+      213: 8001163749803557379
+    second: transparent-sprite-portal-16_620
+  - first:
+      213: -2803015974347046734
+    second: transparent-sprite-portal-16_621
+  - first:
+      213: 3665314954759735763
+    second: transparent-sprite-portal-16_622
+  - first:
+      213: 3404443915008698318
+    second: transparent-sprite-portal-16_623
+  - first:
+      213: -1918704769212805828
+    second: transparent-sprite-portal-16_624
+  - first:
+      213: -57554832446431376
+    second: transparent-sprite-portal-16_625
+  - first:
+      213: 473841506860749697
+    second: transparent-sprite-portal-16_626
+  - first:
+      213: 4878671705799264289
+    second: transparent-sprite-portal-16_627
+  - first:
+      213: -3681239049692310880
+    second: transparent-sprite-portal-16_628
+  - first:
+      213: -4574701510330403630
+    second: transparent-sprite-portal-16_629
+  - first:
+      213: -2998785745157286150
+    second: transparent-sprite-portal-16_630
+  - first:
+      213: 8970720579839969796
+    second: transparent-sprite-portal-16_631
+  - first:
+      213: 7988038654042053321
+    second: transparent-sprite-portal-16_632
+  - first:
+      213: 6781106661226658272
+    second: transparent-sprite-portal-16_633
+  - first:
+      213: -2906545625338558307
+    second: transparent-sprite-portal-16_634
+  - first:
+      213: 4555342417829826926
+    second: transparent-sprite-portal-16_635
+  - first:
+      213: 882064855041268549
+    second: transparent-sprite-portal-16_636
+  - first:
+      213: 3422731398963865925
+    second: transparent-sprite-portal-16_637
+  - first:
+      213: 8780868639646550593
+    second: transparent-sprite-portal-16_638
+  - first:
+      213: -522643128686482014
+    second: transparent-sprite-portal-16_639
+  - first:
+      213: -9208250887975403740
+    second: transparent-sprite-portal-16_640
+  - first:
+      213: -5045877201823327940
+    second: transparent-sprite-portal-16_641
+  - first:
+      213: -7935051628043794707
+    second: transparent-sprite-portal-16_642
+  - first:
+      213: -3305885051488307292
+    second: transparent-sprite-portal-16_643
+  - first:
+      213: -4595149908595603714
+    second: transparent-sprite-portal-16_644
+  - first:
+      213: 5930793068008251384
+    second: transparent-sprite-portal-16_645
+  - first:
+      213: 9210131757618288717
+    second: transparent-sprite-portal-16_646
+  - first:
+      213: -3513129271957884220
+    second: transparent-sprite-portal-16_647
+  - first:
+      213: -7875178550468585296
+    second: transparent-sprite-portal-16_648
+  - first:
+      213: 876807254185067334
+    second: transparent-sprite-portal-16_649
+  - first:
+      213: 1459775462831302585
+    second: transparent-sprite-portal-16_650
+  - first:
+      213: 5312307704253449882
+    second: transparent-sprite-portal-16_651
+  - first:
+      213: -8968453072074612361
+    second: transparent-sprite-portal-16_652
+  - first:
+      213: 5628794763772521651
+    second: transparent-sprite-portal-16_653
+  - first:
+      213: -4027476318614969439
+    second: transparent-sprite-portal-16_654
+  - first:
+      213: 1514274343680430988
+    second: transparent-sprite-portal-16_655
+  - first:
+      213: 4251867932915885127
+    second: transparent-sprite-portal-16_656
+  - first:
+      213: 5870904585104903583
+    second: transparent-sprite-portal-16_657
+  - first:
+      213: -3514454355367760659
+    second: transparent-sprite-portal-16_658
+  - first:
+      213: 812523592226631588
+    second: transparent-sprite-portal-16_659
+  - first:
+      213: -2126296555842106709
+    second: transparent-sprite-portal-16_660
+  - first:
+      213: 5067714061356473826
+    second: transparent-sprite-portal-16_661
+  - first:
+      213: -8038814540910225426
+    second: transparent-sprite-portal-16_662
+  - first:
+      213: 7221734456002955331
+    second: transparent-sprite-portal-16_663
+  - first:
+      213: 7549343316373090641
+    second: transparent-sprite-portal-16_664
+  - first:
+      213: -8003875275235316799
+    second: transparent-sprite-portal-16_665
+  - first:
+      213: 3442577157793657207
+    second: transparent-sprite-portal-16_666
+  - first:
+      213: 1179833186894106554
+    second: transparent-sprite-portal-16_667
+  - first:
+      213: -2834779569175112343
+    second: transparent-sprite-portal-16_668
+  - first:
+      213: -6858198879992148149
+    second: transparent-sprite-portal-16_669
+  - first:
+      213: 6892642786899843516
+    second: transparent-sprite-portal-16_670
+  - first:
+      213: 1868612169305580750
+    second: transparent-sprite-portal-16_671
+  - first:
+      213: 4795937121975197669
+    second: transparent-sprite-portal-16_672
+  - first:
+      213: -6422461953629127524
+    second: transparent-sprite-portal-16_673
+  - first:
+      213: -8081038761561872353
+    second: transparent-sprite-portal-16_674
+  - first:
+      213: -3716183068182844719
+    second: transparent-sprite-portal-16_675
+  - first:
+      213: -8954626244230367054
+    second: transparent-sprite-portal-16_676
+  - first:
+      213: -3350629195115574332
+    second: transparent-sprite-portal-16_677
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 336
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f52fb3af8faad90800000000000000
+      internalID: -7085577310082801801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 336
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c4bc0e3e6a5c750800000000000000
+      internalID: 6324644749370936463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 336
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf029c1ea9829b650800000000000000
+      internalID: 6249070603631403259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 336
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258130733f0837080800000000000000
+      internalID: -9190860632444692398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 336
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d0aa8d26735d290800000000000000
+      internalID: -7866320276451357303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_5
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 336
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013a453edcdbdafd0800000000000000
+      internalID: -2328996740300758256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 336
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26193c80819655a40800000000000000
+      internalID: 5356302883774239074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_7
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 336
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9316c267750d9b220800000000000000
+      internalID: 2502260142044373305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_8
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 336
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f08a8f28b12b1610800000000000000
+      internalID: 1592903968160907513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_9
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 336
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7621ab916937179f0800000000000000
+      internalID: -472469397383277977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 289
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6c729731a4d50c0800000000000000
+      internalID: -4585427398095812920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 289
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad29661e2bd342880800000000000000
+      internalID: -8636710346894699814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_12
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 289
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec935b09647f0a00800000000000000
+      internalID: 724926059540356320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_13
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 289
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66704250440e00b60800000000000000
+      internalID: 7710409144806934374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_14
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 289
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff3213c3dc629200800000000000000
+      internalID: 185330191442264063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_15
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 289
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835e3666859b91360800000000000000
+      internalID: 7140942473498715448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_16
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 289
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba8e2fc1a98504e0800000000000000
+      internalID: -2016053930119755080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_17
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 289
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a68bc56f4795c20800000000000000
+      internalID: 3195714012062444062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_18
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 289
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a866a2c82c9a830800000000000000
+      internalID: 4083008444450638455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_19
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 289
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd90046def6e1d10800000000000000
+      internalID: 2098237541776924150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611f3a6042d09f490800000000000000
+      internalID: -7712118438513872618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4422a080dd49faf10800000000000000
+      internalID: 2283207213143695940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_22
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce1d6124fd36fda0800000000000000
+      internalID: -5911469342135083319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e1b7def6c936250800000000000000
+      internalID: 5936760738344017443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_24
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f470fffc2a65220800000000000000
+      internalID: 2474344059507265404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_25
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f81681f5c2b1080800000000000000
+      internalID: -9215723425541025895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_26
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92545c70fd1f097b0800000000000000
+      internalID: -5219406027912035031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_27
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00dcf5e0a53954a80800000000000000
+      internalID: -8483212308084962048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_28
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69b5aab4a7e1de00800000000000000
+      internalID: 1067889281355594093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_29
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 242
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342cb7f1c76421fa0800000000000000
+      internalID: -5831521068573277629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 195
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a8ca027e60995a0800000000000000
+      internalID: -6514167796259321295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_31
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 195
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5e23a8896b16cf0800000000000000
+      internalID: -260726537140902428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_32
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 195
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd9ea1701d434b30800000000000000
+      internalID: 4270341604699446718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_33
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 195
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41943b5ab9220f6c0800000000000000
+      internalID: -4111748407893997292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_34
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 195
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33c32eecad6803c0800000000000000
+      internalID: -4393140847002795206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_35
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 195
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2407d6b95f550a40800000000000000
+      internalID: 5333774172614493229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_36
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 195
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259f762b3bfbf3bd0800000000000000
+      internalID: -2648187277357352622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_37
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 195
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b8590f33d9729f0800000000000000
+      internalID: -493252787768554709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_38
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 195
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bc72a30a8e03330800000000000000
+      internalID: 3688703869684534153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_39
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 195
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbca36c0f9cdee00800000000000000
+      internalID: 1075737921966492619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 148
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af4481c9a36d81c0800000000000000
+      internalID: -4499830871925960794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_41
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 148
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3516780ca576230800000000000000
+      internalID: 3631971407449117608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_42
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 148
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f69e7789d09e6e0800000000000000
+      internalID: -1807898826914566255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_43
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 148
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487bac69532b94a80800000000000000
+      internalID: -8482052479942740092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_44
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 148
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8f52f1a5053bd30800000000000000
+      internalID: 4445985605144672502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_45
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 148
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538bde073e2e749a0800000000000000
+      internalID: -6248776491473192907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_46
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 148
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b851ed469eee10120800000000000000
+      internalID: 2378444764415399307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_47
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 148
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315e8148aceb85b50800000000000000
+      internalID: 6582220632410875155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_48
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 148
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82ab17ee4dcbbde0800000000000000
+      internalID: -1316232727307246966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_49
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 148
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c120143ed0918b0800000000000000
+      internalID: -5181094626613650392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_50
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 148
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3514fa37e152f0a10800000000000000
+      internalID: 1877760382356898131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_51
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 148
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4450a2e9b499a4060800000000000000
+      internalID: 6938526725972821316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_52
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 101
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48550ee690cb91f0800000000000000
+      internalID: -1037023534707812273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_53
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 101
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e72682cc52a6310800000000000000
+      internalID: 1398972193033059894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_54
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 101
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91284aea05b4d7570800000000000000
+      internalID: 8466005684425884185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_55
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 101
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9e180ab5390ce80800000000000000
+      internalID: -8160360503051163199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_56
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 101
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1b1353d100f64f0800000000000000
+      internalID: -833447280593751636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_57
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 101
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707039e062ba5fed0800000000000000
+      internalID: -2380808648053815545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_58
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 101
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136fd042c43202e20800000000000000
+      internalID: 3323695334928807473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_59
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 101
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c357919095d62fbe0800000000000000
+      internalID: -1444972301260327620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_60
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 101
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8660ddefb93d43f30800000000000000
+      internalID: 4554497790127703656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_61
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 101
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad466756cc60a190800000000000000
+      internalID: -7953237342810649182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_62
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 101
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9199cfbb865234070800000000000000
+      internalID: 8089350487448262937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_63
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 101
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071f401cf80d87420800000000000000
+      internalID: 2628079698407911792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_64
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 54
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d9bfe0256d3d630800000000000000
+      internalID: 3950736946061090068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_65
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 54
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df97642f9c4fa65e0800000000000000
+      internalID: -1915449543302415875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_66
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 54
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2571fd7722b258280800000000000000
+      internalID: -9041773249836411054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_67
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 54
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77632ed388573ac70800000000000000
+      internalID: 8981151309921138295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_68
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 54
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6af34a9ad419bf0800000000000000
+      internalID: -319388707566147898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_69
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 54
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f26708230e0e550800000000000000
+      internalID: 6188192395515277161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_70
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 54
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8c6762d51242af0800000000000000
+      internalID: -422175781104989964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_71
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 54
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c9aa4c6ba055c10800000000000000
+      internalID: 2041549786182229069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_72
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 54
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290421a6d73e1de60800000000000000
+      internalID: 7985413742094598290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_73
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 54
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153da645cb4e4f6a0800000000000000
+      internalID: -6416252071574842543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_74
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 54
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed14390a64752180800000000000000
+      internalID: -9140771869908787740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_75
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 54
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a39ae6d02899c40800000000000000
+      internalID: 5519585812522023550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_76
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f4e500a30506ba0800000000000000
+      internalID: -6097785685415145649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_77
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 7
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909b563c8baeb4f90800000000000000
+      internalID: -6968217919152604919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_78
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 7
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a1947b5a08e37c0800000000000000
+      internalID: -4089689962372851092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_79
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 7
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5c735367832c6e0800000000000000
+      internalID: -1818829219154115141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_80
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 7
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab01679be6e534f30800000000000000
+      internalID: 4558591077480009914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_81
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 7
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5547f7fbbd6d950a0800000000000000
+      internalID: -6892241515414850475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_82
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 7
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf618a776f68a1120800000000000000
+      internalID: 2385367345773680380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_83
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 7
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58bc9100d8f919c0800000000000000
+      internalID: -3955857225404336035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_84
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 7
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3ded662f20fc7f0800000000000000
+      internalID: -590249786031025200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_85
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 7
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a80975311baaae0800000000000000
+      internalID: -1537221626162017694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_86
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 7
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff5e8fa43c80ee60800000000000000
+      internalID: 7989539896866791412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transparent-sprite-portal-16_87
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 7
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9292b3e3dcb6210800000000000000
+      internalID: 1327380182354962908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
