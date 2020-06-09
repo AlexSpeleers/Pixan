@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Fly Enemy
   m_EditorClassIdentifier: 
   health: 700
-  unitSpeed: 100
+  unitSpeed: 80
   amoSpeed: 4
-  amoDmg: 250
-  unitColisionDmg: 50
+  amoDmg: -250
+  unitColisionDmg: -50

@@ -7,8 +7,7 @@ public class LevelLoader : MonoBehaviour
 {
     [SerializeField] private Animator crossFadeAnimator;
     [SerializeField] [Range(0.4f, 1f)] private float transitionTime;
-    [Inject] readonly ZenjectSceneLoader sceneLoader;
-
+    [Inject] private ZenjectSceneLoader sceneLoader;
     public void LoadScene(int sceneIndex) 
     {
         StartCoroutine(LoadLevelRoutine(sceneIndex));
@@ -29,7 +28,6 @@ public class LevelLoader : MonoBehaviour
     {
         crossFadeAnimator.SetTrigger("Start");
         yield return new WaitForSeconds(transitionTime);
-        sceneLoader.LoadScene(sceneIndex, LoadSceneMode.Single,
-            (container) => { container.BindInstance(player).WhenInjectedInto<Spawner>(); });
+        sceneLoader.LoadSceneAsync(sceneIndex, LoadSceneMode.Single, (container) => { container.BindInstance(player).WhenInjectedInto<GameInstaller>(); });        
     }
 }

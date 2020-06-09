@@ -10,22 +10,32 @@ public class Player : AbstractUnit
     private float amoSpeed;
     private int amoDmg;
     private bool isMoving = false;
-    private string animationFlag = "Up";
+    private string animationFlag = "IsWalking";
     private AbstractUnit target;
     private float coolDown = 0f;
     public Camera HealthbarCanvas { set => healthbarCanvas.worldCamera = value; }
-
+    
     [Inject]
-    private void Init(GameState gameState, Spawner spawner, BulletBehaviour bullet)
+    public void Init(GameState gameState, Spawner spawner, BulletBehaviour bullet)
     {
         this.gameState = gameState;
         this.spawner = spawner;
         this.bullet = bullet;
     }
 
+    public void Clone(Player player)
+    {
+        this.currentHealth = player.currentHealth;
+        this.maxHealth = player.maxHealth;
+        this.amoDmg = player.amoDmg;
+        this.amoSpeed = player.amoSpeed;
+        this.speed = player.speed;
+    }
+
     private void Start()
-    {        
-        target = null;
+    {
+        gameState.OnPlayerWinLvl.AddListener(DisableMove);
+        gameState.OnGameLost.AddListener(DisableMove);
         gameState.OnGameLost.AddListener(Die);
     }
 
@@ -80,8 +90,7 @@ public class Player : AbstractUnit
 
     public void DisableMove()
     {
-        isMoving = false;
-        playerAnimator.SetInteger("Speed", 0);
+        isMoving = false;        
         playerAnimator.SetBool(animationFlag, false);
         playerBody.velocity = Vector3.zero;
     }
@@ -89,47 +98,16 @@ public class Player : AbstractUnit
     public void Move(Vector2 direction)
     {
         isMoving = true;
-        playerAnimator.SetInteger("Speed", 1);
-        #region Check Direction for animation
-        if (direction.y > direction.x)
-        {
-            if (direction.y >= 0)
-            {
-                playerAnimator.SetBool(animationFlag, false);
-                animationFlag = "Up";
-                playerAnimator.SetBool(animationFlag, true);
-            }
-            else
-            {
-                playerAnimator.SetBool(animationFlag, false);
-                animationFlag = "Down";
-                playerAnimator.SetBool(animationFlag, true);
-            }
-        }
-        else
-        {
-            if (direction.x >= 0)
-            {
-                playerAnimator.SetBool(animationFlag, false);
-                animationFlag = "Right";
-                playerAnimator.SetBool(animationFlag, true);
-            }
-            else 
-            {
-                playerAnimator.SetBool(animationFlag, false);
-                animationFlag = "Left";
-                playerAnimator.SetBool(animationFlag, true);
-            }
-        }
-        #endregion
+        playerAnimator.SetBool(animationFlag, true);
+        playerAnimator.SetFloat("DirectionX", direction.x);
+        playerAnimator.SetFloat("DirectionY", direction.y);        
         playerBody.velocity = direction * Time.deltaTime * speed;
     }
 
-    public override void TakeDamage(int damage) 
+    public override void TakeDamage(int damage)
     {
-        Debug.Log(damage + " - damage recieved");
         currentHealth = currentHealth + damage <= 0 ? 0 : currentHealth + damage;
-        healthBar.fillAmount = currentHealth / maxHealth;
+        healthBar.fillAmount = currentHealth / maxHealth;        
         if (currentHealth.Equals(0)) 
         {
             gameState.OnGameLost?.Invoke();
@@ -145,6 +123,8 @@ public class Player : AbstractUnit
     }
     private void OnDestroy()
     {
+        gameState.OnPlayerWinLvl.RemoveListener(DisableMove);
+        gameState.OnGameLost.RemoveListener(DisableMove);
         gameState.OnGameLost.RemoveListener(Die);
     }
 }

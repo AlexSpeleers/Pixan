@@ -16,4 +16,4 @@ MonoBehaviour:
   unitSpeed: 1
   amoSpeed: 0
   amoDmg: 0
-  unitColisionDmg: 100
+  unitColisionDmg: -100

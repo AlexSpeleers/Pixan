@@ -1,13 +1,17 @@
 ﻿using UnityEngine;
 using System.Collections;
 using Zenject;
+using Pathfinding;
 
 public class GroundEnemy : AbstractUnit
 {
     [SerializeField] private Animator groundEnemyAnimator;
+    [SerializeField] private AIDestinationSetter aIDestinationSetter;
+    public AIPath aIPath;
     private Player target;
     private int collisionDamage;
     private bool canDamage = true;
+    private float cashedSpeed;
     
     [Inject]
     private void Init(GameState gameState, Spawner spawner)
@@ -16,21 +20,22 @@ public class GroundEnemy : AbstractUnit
         this.spawner = spawner;
     }
     private void Start()
-    {
+    {        
         groundEnemyAnimator.SetBool("IsMoving", true);
         waitOneSecond = new WaitForSeconds(1f);
     }
     public override void SetDefaultConfig(UnitData groundEnemyData, Camera camera, Player target)
     {
+        aIDestinationSetter.target = target.transform;
         this.target = target;
         healthbarCanvas.worldCamera = camera;
         maxHealth = currentHealth = groundEnemyData.Health;
-        speed = groundEnemyData.UnitSpeed;
+        cashedSpeed = speed = groundEnemyData.UnitSpeed;
         collisionDamage = groundEnemyData.UnitColisionDmg;
         gameState.OnGameLost.AddListener(this.LostGame);
     }
     public override void TakeDamage(int damage) 
-    {
+    {        
         currentHealth = currentHealth + damage <= 0 ? 0 : currentHealth + damage;
         healthBar.fillAmount = currentHealth / maxHealth;
         if (currentHealth.Equals(0)) 
@@ -41,26 +46,32 @@ public class GroundEnemy : AbstractUnit
         }
     }
 
-    private void FixedUpdate()
+    //private void FixedUpdate()
+    //{
+    //    if (gameState.State.Equals(State.InGame))
+    //    {
+    //        //Vector3 targetDir = target.transform.position - transform.position;
+    //        //float angle = Mathf.Atan2(targetDir.y, targetDir.x) * Mathf.Rad2Deg;
+    //        //Quaternion rotation = Quaternion.AngleAxis(angle, Vector3.forward);
+    //        //this.transform.rotation = Quaternion.Slerp(transform.rotation, rotation, 4f * Time.deltaTime);
+    //        //this.transform.position = Vector3.MoveTowards(this.transform.position, target.transform.position, Time.deltaTime * speed);           
+    //    }
+    //}
+
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (gameState.State.Equals(State.InGame))
+        if (collision.transform.tag.Equals(target.tag) && canDamage)
         {
-            Vector3 targetDir = target.transform.position - transform.position;
-            var angleBetween = Vector3.Angle(transform.forward, targetDir);
-            float AngleDeg = (180 / Mathf.PI) * angleBetween;
-            this.transform.localRotation = Quaternion.Euler(new Vector3(0f, 0f, AngleDeg));
-            this.transform.position = Vector3.MoveTowards(this.transform.position, target.transform.position, Time.deltaTime * speed);
+            target?.TakeDamage(collisionDamage);
+            canDamage = false;
+            StartCoroutine(CanDamageRoutine());
+            speed = 0f;
         }
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerExit2D(Collider2D collision)
     {
-        if (collision.transform.tag.Equals("Player") && canDamage) 
-        {
-            target?.TakeDamage(-collisionDamage);
-            canDamage = false;
-            StartCoroutine(CanDamageRoutine());
-        }
+        speed = collision.transform.tag.Equals("Player") ? cashedSpeed : speed;
     }
 
     IEnumerator CanDamageRoutine() 

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61e8dd07aae39964b9b3fedb7c3b5bb9, type: 3}
+  m_Name: SOInstaller 1
+  m_EditorClassIdentifier: 
+  arenaData: {fileID: 11400000, guid: 080d86452a0689f46a672704bf1c0c86, type: 2}
+  playerData: {fileID: 11400000, guid: c7ab8b43c5954bc499555d29171f351e, type: 2}
+  groundEnemyData: {fileID: 11400000, guid: 4f67464b45f58a347a6d4bd145c79e54, type: 2}
+  flyEnemyData: {fileID: 11400000, guid: 5521bdfab4b79464686334087de930f5, type: 2}
+  bossData: {fileID: 11400000, guid: 02a9cb4955811f54f974041f5bed1fff, type: 2}

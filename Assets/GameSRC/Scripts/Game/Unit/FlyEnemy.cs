@@ -39,8 +39,7 @@ public class FlyEnemy : AbstractUnit
         var x = Random.Range(-1f, 1f);
         var y = Random.Range(-1f, 1f);
         var direction = new Vector2(x, y).normalized * speed;
-        flyBody.AddForce(direction, ForceMode2D.Impulse);
-
+        flyBody.AddForce(direction, ForceMode2D.Force);
         yield return waitOneSecond;
         flyBody.velocity = Vector2.zero;
         StartCoroutine(ShootRoutine());

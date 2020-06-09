@@ -6,10 +6,10 @@ using UnityEngine.SceneManagement;
 
 public class Spawner : MonoBehaviour
 {
-    [InjectOptional] private Player injectedPlayer;
     [SerializeField] private LevelLoader levelLoader;
     [SerializeField] private CameraTracker camTracker;    
     [SerializeField] private Joystick joystick;
+    [InjectOptional] private Player injectedPlayer;
     [Inject(Id = "Player")] private UnitData playerEntity;
     [Inject(Id = "Fly Enemy")] private UnitData flyEntity;
     [Inject(Id = "Ground Enemy")] private UnitData groundEntity;
@@ -24,8 +24,8 @@ public class Spawner : MonoBehaviour
     [HideInInspector] public List<AbstractUnit> AliveEnemies = new List<AbstractUnit>();
     private Player cashedPlayer;
     private void Start()
-    {
-        InstantiateEntities();
+    {        
+        InstantiateEntities();        
     }
 
     private void InstantiateEntities()
@@ -33,8 +33,12 @@ public class Spawner : MonoBehaviour
         if (injectedPlayer != null)
         {
             var player = Instantiate(injectedPlayer, arenaData.PlayerSpawnPos, Quaternion.identity);
-            player.HealthbarCanvas = camTracker.PriorCamera;
-            ExtraSetup(player);
+            player.Clone(injectedPlayer);
+            Destroy(injectedPlayer.gameObject);
+            gameState.OnPlayerWinLvl.AddListener(() => { Destroy(player); });
+            //transform.position = arenaData.PlayerSpawnPos;
+            //injectedPlayer.HealthbarCanvas = camTracker.PriorCamera;            
+            ExtraSetup(player);            
         }
         else
         {
@@ -57,7 +61,7 @@ public class Spawner : MonoBehaviour
         {
             for (int i = 0; i < arenaData.GroundSpawnPoints.Count; i++)
             {
-                var entity = Instantiate(groundEnemyPrefab, arenaData.GroundSpawnPoints[i], Quaternion.identity);
+                var entity = Instantiate(groundEnemyPrefab, arenaData.GroundSpawnPoints[i], Quaternion.identity);                
                 AliveEnemies.Add(entity);
                 entity.SetDefaultConfig(groundEntity, camTracker.PriorCamera, cashedPlayer);
             }
@@ -85,10 +89,11 @@ public class Spawner : MonoBehaviour
         if (AliveEnemies.IsEmpty())
         {
             gameState.OnPlayerWinLvl?.Invoke();
-            if (SceneManager.GetActiveScene().buildIndex + 1 != SceneManager.sceneCount)
+            if (SceneManager.GetActiveScene().buildIndex + 1 != SceneManager.sceneCountInBuildSettings)
             {
                 StartCoroutine(levelLoader.LoadScene(SceneManager.GetActiveScene().buildIndex + 1, cashedPlayer));
             }
+            else return;
         }
     }
 }

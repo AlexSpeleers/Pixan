@@ -6344,7 +6344,7 @@ MonoBehaviour:
     type: 3}
   flyEnemyPrefab: {fileID: 6569320442160402188, guid: 24fea56ec5c97ea42a2a3e5836da5187,
     type: 3}
-  groundEnemyPrefab: {fileID: 879959830617337388, guid: 8e13d0619e7144f4f9a2f65dc75e33a8,
+  groundEnemyPrefab: {fileID: 8375727144486589526, guid: 8e13d0619e7144f4f9a2f65dc75e33a8,
     type: 3}
   bossEnemyPrefab: {fileID: 5403634695358217627, guid: 8e8c4f0ef0f7a834f97d9a315d43aee8,
     type: 3}
@@ -6361,8 +6361,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 89715ad69b973a14899afa2c6730b30b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _scriptableObjectInstallers: []
-  _monoInstallers: []
+  _scriptableObjectInstallers:
+  - {fileID: 11400000, guid: e38e234dbec8f2045b748b31618c80f3, type: 2}
+  _monoInstallers:
+  - {fileID: 1654237960}
   _installerPrefabs: []
   _autoRun: 1
   OnPreInstall:

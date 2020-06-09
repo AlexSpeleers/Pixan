@@ -14,6 +14,8 @@ public class GameInstaller : MonoInstaller
         Container.Bind<GameState>().FromInstance(gameState).AsSingle();
         Container.Bind<BulletBehaviour>().FromInstance(bullet);
         if (player != null)
-            Container.BindInstance(player);        
+        {
+            Container.BindInstance(player);
+        }
     }    
 }

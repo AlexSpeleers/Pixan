@@ -16,7 +16,7 @@ public class Joystick : MonoBehaviour, IPointerDownHandler, IPointerUpHandler, I
     private Vector2 endPoint;
     private Vector2 inputVector;
 
-    private void Awake()
+    private void Start()
     {
         gameEndedHandler = delegate { this.gameObject.SetActive(false); };
         gameState.OnGameLost.AddListener(gameEndedHandler.Invoke);

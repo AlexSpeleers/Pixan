@@ -15,7 +15,7 @@ public class BossEnemy : AbstractUnit
     private int collisionDamage;
 
     private bool canDamage = true;
-    private Vector2 direction;
+    private Vector3 direction;
     [Inject]
     private void Init(GameState gameState, Spawner spawner, BulletBehaviour bullet)
     {
@@ -25,6 +25,7 @@ public class BossEnemy : AbstractUnit
     }
     private void Start()
     {
+        currentBossState = BossState.Cooldown;
         gameState.OnGameLost.AddListener(OnGameLost);
         waitOneSecond = new WaitForSeconds(1f);
         StateActions = new Dictionary<BossState, Action>()
@@ -33,7 +34,6 @@ public class BossEnemy : AbstractUnit
             { BossState.Second, DoSecondState },
             { BossState.Third, DoThirdState }
         };
-        currentBossState = BossState.Cooldown;
     }
     public override void SetDefaultConfig(UnitData unitData, Camera camera, Player target)
     {
@@ -46,17 +46,16 @@ public class BossEnemy : AbstractUnit
         amoSpeed = unitData.AmoSpeed;
         StartCoroutine(SelectState());
     }
-
+    
     private void FixedUpdate()
     {
-        if (currentBossState.Equals(BossState.First)) 
+        if (currentBossState == BossState.First) 
         {
-            this.transform.LookAt(target.transform);
-            this.transform.position = transform.forward * Time.deltaTime * (speed + 2);
+            this.transform.position += (target.transform.position - this.transform.position).normalized * Time.fixedDeltaTime * speed * 2;
         }
-        if (currentBossState.Equals(BossState.Second)) 
+        if (currentBossState == BossState.Second) 
         {
-            this.transform.position = direction * Time.deltaTime * speed;
+            this.transform.position += direction.normalized * Time.fixedDeltaTime * speed;
         }
     }
 
@@ -64,7 +63,7 @@ public class BossEnemy : AbstractUnit
     {
         if (collision.transform.tag.Equals("Player") && canDamage)
         {
-            target?.TakeDamage(-collisionDamage);
+            target?.TakeDamage(collisionDamage);
             canDamage = false;
             StartCoroutine(CanDamageRoutine());
         }
@@ -90,14 +89,14 @@ public class BossEnemy : AbstractUnit
         StartCoroutine(MoveToTarget());
     }
 
-    IEnumerator MoveToTarget() 
+    IEnumerator MoveToTarget()
     {
-        var time = 0f;
-        while (time <= 2f) 
-        {
-            time += Time.deltaTime;
+        currentBossState = BossState.First;
+        float duration = Time.time + 2.0f;
+        while (Time.time <= duration) 
+        {            
+            yield return null;
         }
-        yield return new WaitForFixedUpdate();
         currentBossState = BossState.Cooldown;
         StartCoroutine(SelectState());
     }
@@ -113,7 +112,7 @@ public class BossEnemy : AbstractUnit
         var shots = 0;
         while (shots < 3) 
         {
-            if (time >= 0.2f) 
+            if (time >= 0.4f) 
             {
                 var item = Instantiate(bullet, this.transform.position, Quaternion.identity);
                 item.SetConfig(amoDamage, target.tag, Color.white, target.transform, amoSpeed);
@@ -122,13 +121,14 @@ public class BossEnemy : AbstractUnit
             }
             time += Time.deltaTime;
         }
+        direction = new Vector2(UnityEngine.Random.Range(-1f, 1f), UnityEngine.Random.Range(-1f, 1f));
         currentBossState = BossState.Second;
-        direction = new Vector2(UnityEngine.Random.Range(-1, 1), UnityEngine.Random.Range(-1, 1));
         yield return new WaitForSeconds(2f);
         currentBossState = BossState.Cooldown;
         StartCoroutine(SelectState());
     }
 
+    //TODO: make an arc shoot mechanic
     private void DoThirdState() 
     {
         for (int i = 0; i < 3; i++) 
@@ -151,8 +151,8 @@ public class BossEnemy : AbstractUnit
 
     IEnumerator SelectState() 
     {
-        yield return new WaitForSeconds(1f);
         var k = UnityEngine.Random.Range(0, 3);
+        yield return waitOneSecond;
         var action = StateActions[(BossState)k] as Action;
         currentBossState = (BossState)k;
         action();

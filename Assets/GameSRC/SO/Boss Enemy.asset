@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Boss Enemy
   m_EditorClassIdentifier: 
   health: 3000
-  unitSpeed: 40
+  unitSpeed: 2
   amoSpeed: 4
-  amoDmg: 275
-  unitColisionDmg: 100
+  amoDmg: -275
+  unitColisionDmg: -100
